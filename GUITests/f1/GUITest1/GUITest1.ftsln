@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "GUITest1", "GUITest1\Test.tsp", "C179C653-71A8-4C31-9129-A91C51B2B230"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = D:\work\mqm\jenkins_tickets\2027086 - Renaming tests in bulk in GIT is not reflected in Octane\UFTTests\UftTests\GUITests\f1\GUITest1\GUITest1\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		C179C653-71A8-4C31-9129-A91C51B2B230.Debug|Any CPU.Build.0 = Debug|Any CPU
+		C179C653-71A8-4C31-9129-A91C51B2B230.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		C179C653-71A8-4C31-9129-A91C51B2B230.Release|Any CPU.Build.0 = Release|Any CPU
+		C179C653-71A8-4C31-9129-A91C51B2B230.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
