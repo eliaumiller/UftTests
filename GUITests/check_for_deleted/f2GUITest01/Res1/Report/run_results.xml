@@ -5,10 +5,10 @@
 <Data>
     <Name>recovery1</Name>
     <Description>&lt;SPAN class=text&gt;&lt;div align=left&gt;&lt;b&gt;&lt;u&gt;Scenario&lt;/u&gt;:&lt;/b&gt; recovery1&lt;br&gt;&lt;b&gt;&lt;u&gt;Defined in&lt;/u&gt;:&lt;/b&gt; C:\dev\plugins\_uft\UftTests\GUITests\f1\resources\recovery1.qrs&lt;br&gt;&lt;b&gt;&lt;u&gt;Loading failed with error&lt;/u&gt;:&lt;/b&gt; Scenario is not found.&lt;/div&gt;&lt;/SPAN&gt;</Description>
-    <StartTime>2023-01-23 09:53:51</StartTime>
+    <StartTime>2023-01-23 09:55:16</StartTime>
     <Result>Warning</Result>
     <Extension>
-      <IconKey>ab3ed93890044ce88ae1fe6d4442771c</IconKey>
+      <IconKey>88f36973abed404187e0fd3aef2857ae</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
       <NodeType>Recovery</NodeType>
     </Extension>
@@ -20,11 +20,11 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2023-01-23 09:53:54</StartTime>
+    <StartTime>2023-01-23 09:55:17</StartTime>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>f224663ddda14c4ca812d2b321b1949f</IconKey>
+      <IconKey>58d0c7201112491bb83ca548b99cf8cf</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -32,11 +32,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2023-01-23 09:53:53</StartTime>
-    <Duration>1</Duration>
+    <StartTime>2023-01-23 09:55:17</StartTime>
+    <Duration>0</Duration>
     <Result>Done</Result>
     <Extension>
-      <IconKey>f87bf3a8cc8a46b2bc6f96a2c5eaaf27</IconKey>
+      <IconKey>7cd375e1a8fa4ee9b59f45037513a036</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -49,12 +49,12 @@
     <ToolVersion>2023</ToolVersion>
     <ToolVersionStringLiteral>2023</ToolVersionStringLiteral>
     <Description />
-    <StartTime>2023-01-23 09:53:51</StartTime>
-    <Duration>3</Duration>
+    <StartTime>2023-01-23 09:55:16</StartTime>
+    <Duration>2</Duration>
     <Result>Warning</Result>
     <InputParameters />
     <Extension>
-      <IconKey>46b6d4659c67452ba25d85593d677ef9</IconKey>
+      <IconKey>c2099a0065644d8da5f7ddf7720ff9e5</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -74,8 +74,8 @@
   </Data>
 </ReportNode>
 <GeneralInfo>
-    <ResultName>GUITest01_2</ResultName>
-    <RunStartTime>2023-01-23 09:53:51</RunStartTime>
+    <ResultName>Res1</ResultName>
+    <RunStartTime>2023-01-23 09:55:16</RunStartTime>
     <Timezone>+02:00:00</Timezone>
     <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
     <OrchestrationToolVersion>2023</OrchestrationToolVersion>
